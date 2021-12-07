@@ -1,0 +1,11 @@
+C:\Users\PC-01\source\repos\corazon\corazon\bin\Debug\corazon.exe.config
+C:\Users\PC-01\source\repos\corazon\corazon\bin\Debug\corazon.exe
+C:\Users\PC-01\source\repos\corazon\corazon\bin\Debug\corazon.pdb
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.csproj.AssemblyReference.cache
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.Form1.resources
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.Properties.Resources.resources
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.csproj.GenerateResource.cache
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.exe
+C:\Users\PC-01\source\repos\corazon\corazon\obj\Debug\corazon.pdb
